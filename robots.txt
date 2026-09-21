@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://iznajmljivanje-bine.vercel.app/sitemap.xml
